@@ -1,9 +1,11 @@
-# socketservice
+/*
+# URL
+http://www.binarytides.com/server-client-example-c-sockets-linux/
 
+# socsocketservice 
 Servicio en C que recibe socket desde cm ntes rpgmaker para pruebas de dislogo y sesiones zd consulta de variables de sesión.
 Marcelo Castillo Leyton
-
-Funcines basicas:
+Code:
 
 /*
     C socket server example
